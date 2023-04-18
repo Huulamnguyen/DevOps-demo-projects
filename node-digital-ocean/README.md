@@ -1,17 +1,14 @@
-#### This project is for the Devops bootcamp exercise for
+## 2. Deplpoy Node App with Digital Ocean 
+### Demo Project:
+- Create a server and deploy Node application on Digital Ocean
 
-#### "Cloud Basics"
+### Techology used:
+- Digital Ocean, Linux, Node, npm
 
-##### Test
-The project uses jest library for tests. (see "test" script in package.json)
-There is 1 test (server.test.js) in the project that checks whether the main index.html file exists in the project. 
+### Project Description:
+- Setup and configure a server on Digital Ocean
+- Create and configure a new Linuz user on the Droplet (security best practices)
+- Deplpoy and run a node application on Doplet
 
-To run the nodejs test:
-
-    npm run test
-
-Make sure to download jest library before running test, otherwise jest command defined in package.json won't be found.
-
-    npm install
-
-In order to see failing test, remove index.html or rename it and run tests.
+### Source:
+- Module 5: Cloud & Infrastructure as Service Basics with DigitalOcean
