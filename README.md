@@ -8,6 +8,7 @@ a collection of all DevOps demo and challenges
 ## 1. Deplpoy Java React with Gradle and Digital Ocean <a name="deplpoy-java-react-with-gradle-and-digital-ocean"></a>
 ### Demo Project:
 - Create a server and deploy application on Digital Ocean
+- View Repo: https://github.com/Huulamnguyen/DevOps-demo-projects/tree/main/java-react-gradle-digital-ocean 
 
 ### Techology used:
 - Digital Ocean, Linux, Java, Gradle
@@ -23,6 +24,7 @@ a collection of all DevOps demo and challenges
 ## 2. Deplpoy Node App with Digital Ocean <a name="deploy-node-app-with-digital-ocean"></a>
 ### Demo Project:
 - Create a server and deploy Node application on Digital Ocean
+- View repo: https://github.com/Huulamnguyen/DevOps-demo-projects/tree/main/node-digital-ocean 
 
 ### Techology used:
 - Digital Ocean, Linux, Node, npm
