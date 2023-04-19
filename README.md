@@ -52,7 +52,7 @@ a collection of all DevOps demo and challenges
 ### Project Description:
 - Setup and configure a server on Digital Ocean
 - Install Nexus on droplet
-- Publish artifact to Nexus
+- Configure `gradle.build` file and Publish artifact to Nexus
 
 ### Source:
 - Module 6: Artifact Repository Manager with Nexus
