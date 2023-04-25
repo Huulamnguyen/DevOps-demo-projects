@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
+  "publishConfig": {
+    "registry": "http://178.128.152.139/8081/repository/npm-hosted/"
+  },
   "scripts": {
     "test": "jest",
     "start": "node server.js"

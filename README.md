@@ -5,6 +5,7 @@ a collection of all DevOps demo and challenges
 1. [Deploy Java React with Gradle and Digital Ocean](#deploy-java-react-with-gradle-and-digital-ocean)
 2. [Deploy Node App with Digital Ocean](#deploy-node-app-with-digital-ocean)
 3. [Publish Java Gradle Artifact to Nexus](#publish-java-gradle-artifact-to-nexus)
+4. [Use Docker for local development](#user-docker-for-local-development)
 
 ## 1. Deploy Java React with Gradle and Digital Ocean <a name="deploy-java-react-with-gradle-and-digital-ocean"></a>
 ### Demo Project:
@@ -56,3 +57,19 @@ a collection of all DevOps demo and challenges
 
 ### Source:
 - Module 6: Artifact Repository Manager with Nexus
+
+## 4. Use Docker for local development <a name="user-docker-for-local-development"></a>
+### DemoProject:
+- Use Docker for local development
+- File name: developing-with-docker
+
+### Technology used:
+- Docker, Node.js, MongoDB, MongoExpress
+
+### Project Description:
+- Create Docker file for Nodejs application and buildD ocker image
+- Run Nodejs application in Docker container and connect to MongoDB database container locally
+- Also run Mongo Express container as a UI of the MongoDB database
+- 
+### Source:
+- Module 7: Containers with Docker
