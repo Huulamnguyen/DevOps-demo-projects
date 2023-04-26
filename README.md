@@ -6,6 +6,7 @@ a collection of all DevOps demo and challenges
 2. [Deploy Node App with Digital Ocean](#deploy-node-app-with-digital-ocean)
 3. [Publish Java Gradle Artifact to Nexus](#publish-java-gradle-artifact-to-nexus)
 4. [Use Docker for local development](#user-docker-for-local-development)
+5. [Docker Compose - Run multiple Docker container](#docker-compose-run-multiple-docker-container)
 
 ## 1. Deploy Java React with Gradle and Digital Ocean <a name="deploy-java-react-with-gradle-and-digital-ocean"></a>
 ### Demo Project:
@@ -61,7 +62,7 @@ a collection of all DevOps demo and challenges
 ## 4. Use Docker for local development <a name="user-docker-for-local-development"></a>
 ### DemoProject:
 - Use Docker for local development
-- File name: developing-with-docker
+- File name or repo: developing-with-docker
 
 ### Technology used:
 - Docker, Node.js, MongoDB, MongoExpress
@@ -71,5 +72,19 @@ a collection of all DevOps demo and challenges
 - Run Nodejs application in Docker container and connect to MongoDB database container locally
 - Also run Mongo Express container as a UI of the MongoDB database
 - 
+### Source:
+- Module 7: Containers with Docker
+
+## 5. Docker Compose - Run multiple Docker container <a name="docker-compose-run-multiple-docker-container"></a>
+### DemoProject:
+- Docker Compose - Run multiple Docker container
+- File name or repo: developing-with-docker
+
+### Technology used:
+- Docker, Node.js, MongoDB, MongoExpress
+
+### Project Description:
+- Write Docker Compose files to run MongoDB and MongoExpress Containers
+-
 ### Source:
 - Module 7: Containers with Docker

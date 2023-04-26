@@ -33,7 +33,7 @@ let mongoUrlDockerCompose = "mongodb://admin:password@mongodb";
 let mongoClientOptions = { useNewUrlParser: true, useUnifiedTopology: true };
 
 // "user-account" in demo with docker. "my-db" in demo with docker-compose
-let databaseName = "user-account";
+let databaseName = "my-db";
 
 app.post('/update-profile', function (req, res) {
   let userObj = req.body;
