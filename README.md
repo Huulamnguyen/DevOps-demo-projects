@@ -65,7 +65,7 @@ a collection of all DevOps demo and challenges
 ## 4. Use Docker for local development <a name="user-docker-for-local-development"></a>
 ### DemoProject:
 - Use Docker for local development
-- File name or repo: developing-with-docker
+- File name or repo: [developing-with-docker](https://github.com/Huulamnguyen/DevOps-demo-projects/tree/main/developing-with-docker)
 ### Technology used:
 - Docker, Node.js, MongoDB, MongoExpress
 ### Project Description:
@@ -79,7 +79,7 @@ a collection of all DevOps demo and challenges
 ## 5. Docker Compose - Run multiple Docker container <a name="docker-compose-run-multiple-docker-container"></a>
 ### DemoProject:
 - Docker Compose - Run multiple Docker container
-- File name or repo: developing-with-docker
+- File name or repo: [developing-with-docker](https://github.com/Huulamnguyen/DevOps-demo-projects/tree/main/developing-with-docker)
 ### Technology used:
 - Docker, Node.js, MongoDB, MongoExpress
 ### Project Description:
@@ -91,7 +91,7 @@ a collection of all DevOps demo and challenges
 ## 6. Dockerized Nodejs application and push to private Docker <a name="Dockerized-nodejs-application-push-to-private-docker"></a>
 ### Demo Project:
 - Dockerized Nodejs application and push to private Docker registry Amazon ECR 
-- File name or repo: developing-with-docker
+- File name or repo: [developing-with-docker](https://github.com/Huulamnguyen/DevOps-demo-projects/tree/main/developing-with-docker)
 ### Technologies used:
 - Docker, Node.js, Amazon ECR
 ### Project Description:
@@ -105,7 +105,7 @@ a collection of all DevOps demo and challenges
 ## 7. Deploy Docker application on a server with Docker Compose <a name="deploy-docker-app-on-server-with-docker-compose"></a>
 ### Demo Project:
 - Deploy Docker application on a server with Docker Compose
-- File name or repo: developing-with-docker
+- File name or repo: [developing-with-docker](https://github.com/Huulamnguyen/DevOps-demo-projects/tree/main/developing-with-docker)
 ### Technologies used:
 - Docker, Amazon ECR, Node.js, MongoDB, MongoExpress
 ### Project Description:
@@ -119,7 +119,7 @@ a collection of all DevOps demo and challenges
 ## 8. Persist data with Docker Volumes <a name="Persist-data-with-Docker-Volumes"></a>
 ### Demo Project:
 - Persist data with Docker Volumes
-- File name or repo: developing-with-docker
+- File name or repo: [developing-with-docker](https://github.com/Huulamnguyen/DevOps-demo-projects/tree/main/developing-with-docker)
 ### Technologies used:
 - Docker, Node.js, MongoDB
 ### Project Description:
@@ -131,7 +131,7 @@ a collection of all DevOps demo and challenges
 ## 9. Create Docker repository on Nexus and push to it <a name="Create-Docker-repository-on-Nexus-and-push-to-it"></a>
 ### Demo Project:
 - Create Docker repository on Nexus and push to it
-- File name or repo: developing-with-docker
+- File name or repo: [developing-with-docker](https://github.com/Huulamnguyen/DevOps-demo-projects/tree/main/developing-with-docker)
 ### Technologies used:
 - Docker, Nexus, DigitalOcean, Linux
 ### Project Description:
@@ -146,7 +146,7 @@ a collection of all DevOps demo and challenges
 ## 10. Deploy Nexus as Docker container <a name="Deploy-Nexus-as-Docker-container"></a>
 ### Demo Project:
 - Deploy Nexus as Docker container
-- File name or repo: developing-with-docker
+- File name or repo: [developing-with-docker](https://github.com/Huulamnguyen/DevOps-demo-projects/tree/main/developing-with-docker)
 ### Technologies used:
 - Docker, Nexus, DigitalOcean, Linux
 ### Project Description:
