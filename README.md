@@ -8,6 +8,10 @@ a collection of all DevOps demo and challenges
 4. [Use Docker for local development](#user-docker-for-local-development)
 5. [Docker Compose - Run multiple Docker container](#docker-compose-run-multiple-docker-container)
 6. [Dockerized Nodejs application and push to private Docker](#Dockerized-nodejs-application-push-to-private-docker)
+7. [Deploy Docker application on a server with Docker Compose](#deploy-docker-app-on-server-with-docker-compose")
+8. [Persist data with Docker Volumes](#Persist-data-with-Docker-Volumes)
+9. [Create Docker repository on Nexus and push to it](#Create-Docker-repository-on-Nexus-and-push-to-it)
+10. [Deploy Nexus as Docker container](#Deploy-Nexus-as-Docker-container)
 
 -----
 ## Module 5: Cloud & Infrastructure as Service Basics with DigitalOcean
@@ -98,7 +102,7 @@ a collection of all DevOps demo and challenges
 - Module 7: Containers with Docker
 
 -----
-## 7. Deploy Docker application on a server with Docker Compose <a name="deploy-docker-app-on-server-with-docker-compose></a>
+## 7. Deploy Docker application on a server with Docker Compose <a name="deploy-docker-app-on-server-with-docker-compose"></a>
 ### Demo Project:
 - Deploy Docker application on a server with Docker Compose
 - File name or repo: developing-with-docker
